@@ -92,6 +92,44 @@ To enable real SMS notifications:
 
 ---
 
+## ScreenShots
+
+## Register Page
+
+<img width="1915" height="1030" alt="register" src="https://github.com/user-attachments/assets/64ebc6da-dcca-4efc-9386-2aa8ca4e80ae" />
+
+## Login Page
+
+<img width="1915" height="1035" alt="login" src="https://github.com/user-attachments/assets/a8e02007-9346-4151-afa5-9fd0c1ab8ce9" />
+
+## DashBoard
+
+<img width="1914" height="1033" alt="d" src="https://github.com/user-attachments/assets/def689e6-a591-4034-8157-85737e842a0b" />
+
+<img width="1915" height="1027" alt="d1" src="https://github.com/user-attachments/assets/da5a1144-1eec-4826-954d-0c58e0a3fa43" />
+
+## Send Money Page
+
+<img width="1916" height="1031" alt="send m" src="https://github.com/user-attachments/assets/75fc6734-d097-4bcc-b97b-fb54c74bfe9a" />
+
+<img width="1915" height="1034" alt="c" src="https://github.com/user-attachments/assets/ec38c39f-4ec2-44af-9fb6-b85a4320525d" />
+
+<img width="1914" height="1031" alt="t" src="https://github.com/user-attachments/assets/d80e689b-46c1-42a7-8504-16e9047a413b" />
+
+## Hsitory Page
+
+<img width="1917" height="1031" alt="history" src="https://github.com/user-attachments/assets/bb6cee85-4fdf-4d05-b971-88b51737099b" />
+
+
+<img width="1914" height="1033" alt="n" src="https://github.com/user-attachments/assets/f66c30ff-9a46-4d64-947a-d28adea31991" />
+
+## Profile Page
+
+<img width="1916" height="1032" alt="p" src="https://github.com/user-attachments/assets/0b0789cb-bd4b-4fcf-9937-b47bdd764aee" />
+
+
+
+
 ## 🇵🇰 Urdu Guide (Mukhtasir)
 
 - **Problem:** Email OTP aksar late ho jata tha.
