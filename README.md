@@ -116,7 +116,7 @@ To enable real SMS notifications:
 
 <img width="1914" height="1031" alt="t" src="https://github.com/user-attachments/assets/d80e689b-46c1-42a7-8504-16e9047a413b" />
 
-## Hsitory Page
+## History Page
 
 <img width="1917" height="1031" alt="history" src="https://github.com/user-attachments/assets/bb6cee85-4fdf-4d05-b971-88b51737099b" />
 
