@@ -128,7 +128,8 @@ To enable real SMS notifications:
 <img width="1916" height="1032" alt="p" src="https://github.com/user-attachments/assets/0b0789cb-bd4b-4fcf-9937-b47bdd764aee" />
 
 
-
+Email:
+hanzlashahzadhanzlashahzad@gmail.com
 
 ## 🇵🇰 Urdu Guide (Mukhtasir)
 
