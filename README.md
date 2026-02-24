@@ -131,7 +131,7 @@ To enable real SMS notifications:
 Email:
 hanzlashahzadhanzlashahzad@gmail.com
 
-## 🇵🇰 Urdu Guide (Mukhtasir)
+## Guidance about this website 
 
 - **Problem:** Email OTP aksar late ho jata tha.
 - **Solution:** Ab OTP simulation mode mein hai. Code aapko **Server Console** mein nazar ayega.
