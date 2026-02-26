@@ -131,11 +131,11 @@ To enable real SMS notifications:
 ## 📬 Connect with Me
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-Email: hanzlashahzadhanzlashahzad@gmail.com
+## Email: hanzlashahzadhanzlashahzad@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+## LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
 
-GitHub: @hanzlashahzad01
+## GitHub: @hanzlashahzad01
 
 ## Guidance about this website 
 
