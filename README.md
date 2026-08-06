@@ -149,5 +149,3 @@ GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
 
 ## 📄 License
 This project is for development and educational purposes.
-
-## Made by Hanzla Shahzad
